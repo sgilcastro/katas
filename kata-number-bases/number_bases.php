@@ -1,7 +1,8 @@
 <?php
 
 /*
-Se trata de crear un programa que transforme numeros de **sistemas decimal, octal, hexadecimal y binario**. Esto es, dado un número en una base concreta, lo transforme al resto de bases.  
+Se trata de crear un programa que transforme numeros de **sistemas decimal, octal, hexadecimal y binario**. 
+Esto es, dado un número en una base concreta, lo transforme al resto de bases.  
 
 Ejemplos
 

@@ -1,9 +1,5 @@
 <?php
 
-
-
-
-
 /* Creamos la variable num y la mostramos por pantalla */
 $num = 120;
 
